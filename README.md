@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, it's me....Nathanael 'wants a job' Tesfaye!
 
-## I want a job 😁
+
 
 <!--
 **natedoesthings/natedoesthings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
