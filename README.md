@@ -1,7 +1,7 @@
 # 🌟 Hey! 🌟
 
 ## 👋 About Me
-Hello! I'm [Nathanael Tesfaye], a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub portfolio where you can find my projects, skills, and more!
+Hello! I'm Nathanael Tesfaye, a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub portfolio where you can find my projects, skills, and more!
 
 ## 🛠️ Skills
 - **Languages:**
@@ -24,8 +24,8 @@ Hello! I'm [Nathanael Tesfaye], a passionate developer with a love for coding an
 
 ## 💡 Interests
 - **Artificial Intelligence (🤖):** Exploring the fascinating world of AI and machine learning.
-- **Open Source (🌍):** Contributing to and supporting open source projects.
-- **Blockchain (🔗):** Learning and developing decentralized applications.
+- **Back-End Development (🔧):** Building robust and scalable server-side applications.
+- **Financial Technology (💸):** Innovating at the intersection of finance and technology.
 
 ## 🎨 Hobbies
 - **Gaming (🎮):** Avid gamer enjoying everything from indie games to AAA titles.
@@ -38,5 +38,7 @@ Hello! I'm [Nathanael Tesfaye], a passionate developer with a love for coding an
 - **LinkedIn:** [nathanaeltesfaye](https://www.linkedin.com/in/nathanaeltesfaye)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natedoesthings&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natedoesthings&show_icons=true&theme=radical&hide=prs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natedoesthings&layout=compact&theme=radical)
 
