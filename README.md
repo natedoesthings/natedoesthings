@@ -36,7 +36,7 @@ Hello! I'm Nathanael Tesfaye, a passionate developer with a love for coding and 
 - **LinkedIn:** [nathanaeltesfaye](https://www.linkedin.com/in/nathanaeltesfaye)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natedoesthings&theme=radical&hide=prs,issues&icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natedoesthings&theme=radical&hide=prs,issues&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natedoesthings&layout=compact&theme=radical)
 
