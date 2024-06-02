@@ -1,5 +1,3 @@
-# 🌟 Hey! 🌟
-
 ## 👋 About Me
 Hello! I'm Nathanael Tesfaye, a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub portfolio where you can find my projects, skills, and more!
 
